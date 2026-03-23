@@ -1,0 +1,5 @@
+schema.sql 别动，要动必须跟我说
+seed.sql 是测试数据随便用
+
+如果想要做新的修改，另建sql文件放migrations文件夹
+整合的时候我会修改所有人的migrations使之不冲突
